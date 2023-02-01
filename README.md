@@ -1,3 +1,3 @@
 # chatting_system
 
-checking connection
+checking connection (Connected)
